@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amr-Elharery
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Front-End Devolper
+- 💞️ I’m looking to collaborate on Web Front-End Developer
 - 📫 How to reach me By Mail Me amrelharery@gmail.com
 
 <!---
