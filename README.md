@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amr-Elharery
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning NextJs
 - 💞️ I’m looking to collaborate on Web Front-End Developer
 - 📫 How to reach me By Mail Me amrelharery@gmail.com
 
